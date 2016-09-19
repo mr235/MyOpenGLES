@@ -1,0 +1,4 @@
+<resources>
+    <string name="hello">Hello, OpenGL ES 2.0!</string>
+    <string name="app_name">2.0 OpenGL ES</string>
+</resources>
